@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+* {
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    height: 90vh;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    width: 90vh;
+    }
+
+.image{
+   background-position: center; 
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 90vh;
+   border-radius: 60px;
+   color: white;
+   cursor: pointer;
+   flex: 1px;
+   position: relative;
+   margin: 5px;
+   transition: flex 0.5s ease-in;   
+}
+
+.image h3 {
+    font-size: 30px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    margin: 0;
+    opacity: 0;
+}
+
+.image.active {
+    flex: 50;
+      }
+
+.image.active h3 {
+    opacity: 1;
+    transition: opacity 0.5s ease-in 0.4s;
+}
+
+
+
+@media (max-width: 480px) {
+    .container {
+        width: 100vw;
+    }
+    .image:nth-of-type(4),
+    .image:nth-of-type(5) {
+        display: none;
+    }
+}
