@@ -8,3 +8,7 @@ if you ant to see it you can click here: https://expandingimages.netlify.app/
 2. Progress Step
 in my second small challenge I have built a progress step from 1 to 10 with a next and a previous button
 you can check it here: https://progressbutton.netlify.app/
+
+3. Rotating navigation with Barli
+in this project I use our dog to present a rotating navigation.
+Here you can check it: https://barlionzehond.netlify.app/
