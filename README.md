@@ -12,3 +12,7 @@ you can check it here: https://progressbutton.netlify.app/
 3. Rotating navigation with Barli
 in this project I use our dog to present a rotating navigation.
 Here you can check it: https://barlionzehond.netlify.app/
+
+4. Hidden search
+you can click and unclick the search engine
+here you can check it: https://hiddnseach.netlify.app/
