@@ -16,3 +16,7 @@ Here you can check it: https://barlionzehond.netlify.app/
 4. Hidden search
 you can click and unclick the search engine
 here you can check it: https://hiddnseach.netlify.app/
+
+5. Blurry loading screen
+when the image of the page lods it starts blurred thne slowly becomes clear
+here you can check it out: https://lordoftheringblurry.netlify.app/
