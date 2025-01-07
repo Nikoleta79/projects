@@ -20,3 +20,7 @@ here you can check it: https://hiddnseach.netlify.app/
 5. Blurry loading screen
 when the image of the page lods it starts blurred thne slowly becomes clear
 here you can check it out: https://lordoftheringblurry.netlify.app/
+
+6. Scrolling animation
+As long as you scroll you will find new animation to appear
+here you can check it out: https://scrollinganimationssite.netlify.app/
