@@ -24,3 +24,7 @@ here you can check it out: https://lordoftheringblurry.netlify.app/
 6. Scrolling animation
 As long as you scroll you will find new animation to appear
 here you can check it out: https://scrollinganimationssite.netlify.app/
+
+7. Split landing page
+It is a page splitted in two with two different options to click and buy
+here you can check it out: https://landingpagewithtwoproducts.netlify.app/
