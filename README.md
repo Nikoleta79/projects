@@ -36,3 +36,7 @@ here you can check it out: https://jumpingform.netlify.app/
 9. Spiderman soundpage
 it is a page that has sounds from spiderman movies
 here you can check it out: https://spidermansoundwebpage.netlify.app/
+
+10. Dad jokes
+it is a genarator with random dad jokes, using json
+you can check it here: https://dadjokestolaugh.netlify.app/
