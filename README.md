@@ -44,3 +44,6 @@ you can check it here: https://dadjokestolaugh.netlify.app/
 11. event key
 you click a button and then differnt actionsd appear
 you can chek it out here: https://eventkeyred.netlify.app/
+
+12. frequently asked questions
+here you can check it out: https://faqquestions.netlify.app/
