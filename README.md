@@ -47,3 +47,8 @@ you can chek it out here: https://eventkeyred.netlify.app/
 
 12. frequently asked questions
 here you can check it out: https://faqquestions.netlify.app/
+
+13. random picker generator
+you write something and put some commas and then the letters are highlited
+you can check it out here:
+https://randompickerpage.netlify.app/
