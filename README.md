@@ -52,3 +52,7 @@ here you can check it out: https://faqquestions.netlify.app/
 you write something and put some commas and then the letters are highlited
 you can check it out here:
 https://randompickerpage.netlify.app/
+
+14. Animated X button
+when you click the X it moves
+you can check it out here: https://animatedxbutton.netlify.app/
