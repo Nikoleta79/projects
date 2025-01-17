@@ -56,3 +56,6 @@ https://randompickerpage.netlify.app/
 14. Animated X button
 when you click the X it moves
 you can check it out here: https://animatedxbutton.netlify.app/
+
+15. drink water reminder app using conditional statements
+you can check it here: https://drinkwaternote.netlify.app/
