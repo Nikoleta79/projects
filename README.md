@@ -62,3 +62,7 @@ you can check it here: https://drinkwaternote.netlify.app/
 
 16. Movies that you can check now, using API
 you can check it here: https://moviesondemandnow.netlify.app/
+
+17. background slider
+it a slider with different background images
+here is link to check it out live: https://backgroundimagesliderk.netlify.app/
