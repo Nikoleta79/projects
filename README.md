@@ -74,3 +74,6 @@ i made a clock with dark and light mode: you can chekc it here: https://clockmak
 
 20. drawing online with a drawing board
 you can check it out here: https://drawingonlinehere.netlify.app/
+
+21. a loader with css
+here youy can check it out: https://movingaroundh.netlify.app/
