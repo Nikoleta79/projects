@@ -83,3 +83,6 @@ you can checkit out here: https://accountheader.netlify.app/
 
 23. making a movable navbar
 here you can check it out: https://welcometomywebsitev.netlify.app/
+
+24. vertical slide
+check here: https://slidervertical.netlify.app/
