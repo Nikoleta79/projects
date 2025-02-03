@@ -86,3 +86,6 @@ here you can check it out: https://welcometomywebsitev.netlify.app/
 
 24. vertical slide
 check here: https://slidervertical.netlify.app/
+
+25. Notification
+check it out here: https://spectsnotification.netlify.app/
