@@ -89,3 +89,5 @@ check here: https://slidervertical.netlify.app/
 
 25. Notification
 check it out here: https://spectsnotification.netlify.app/
+
+26. github profiles search: https://githubprofilesearchk.netlify.app/
