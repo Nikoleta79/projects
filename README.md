@@ -93,4 +93,6 @@ check it out here: https://spectsnotification.netlify.app/
 26. github profiles search: https://githubprofilesearchk.netlify.app/
 
 27. click for a heart: https://rosesarerosie.netlify.app/
+  
+28. a background with sloth and a auytotext that moves: https://ilovesloths.netlify.app/ 
 
