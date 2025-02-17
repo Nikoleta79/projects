@@ -96,3 +96,4 @@ check it out here: https://spectsnotification.netlify.app/
   
 28. a background with sloth and a auytotext that moves: https://ilovesloths.netlify.app/ 
 
+29. generator for passwords: https://passwwordgeneratorhier.netlify.app/
