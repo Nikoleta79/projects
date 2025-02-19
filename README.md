@@ -93,9 +93,10 @@ check it out here: https://spectsnotification.netlify.app/
 26. github profiles search: https://githubprofilesearchk.netlify.app/
 
 27. click for a heart: https://rosesarerosie.netlify.app/
-28. pick options: https://dashing-yeot-21f4d6.netlify.app/
+28. generator for passwords: https://passwwordgeneratorhier.netlify.app/
 
   
 29. a background with sloth and a auytotext that moves: https://ilovesloths.netlify.app/ 
 
-30. generator for passwords: https://passwwordgeneratorhier.netlify.app/
+30. pick options: https://dashing-yeot-21f4d6.netlify.app/ 
+
