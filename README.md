@@ -98,5 +98,6 @@ check it out here: https://spectsnotification.netlify.app/
   
 29. a background with sloth and a auytotext that moves: https://ilovesloths.netlify.app/ 
 
-30. pick options: https://dashing-yeot-21f4d6.netlify.app/ 
+30. pick options: https://dashing-yeot-21f4d6.netlify.app/
+31. make notes app: https://resonant-queijadas-8bc088.netlify.app/
 
