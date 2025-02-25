@@ -102,4 +102,5 @@ check it out here: https://spectsnotification.netlify.app/
 31. make notes app: https://resonant-queijadas-8bc088.netlify.app/
 32. animated countdown https://scintillating-pithivier-4ac66b.netlify.app/
 33. carousel images: https://stellular-elf-b3cebb.netlify.app/
+34. hoverband: https://warm-elf-e50226.netlify.app/
 
