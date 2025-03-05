@@ -106,3 +106,9 @@ check it out here: https://spectsnotification.netlify.app/
 35. Pokemon dex: https://moonlit-twilight-b05aa3.netlify.app/
 36. 3d background boxes: https://golden-paletas-379cf9.netlify.app/
 37. account verification: https://peppy-panda-8c0cb9.netlify.app/
+38. live user filter: https://sprightly-malasada-558092.netlify.app/
+39. customer range slider: https://teal-daifuku-dba965.netlify.app/
+40. netflix navigation: https://zesty-cranachan-45f404.netlify.app/
+41. quiz app: https://inquisitive-cajeta-4a2241.netlify.app/
+42. testimonial: https://dainty-entremet-820071.netlify.app/
+43. random image: https://spectacular-gelato-922eb3.netlify.app/ 
